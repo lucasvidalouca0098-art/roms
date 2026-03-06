@@ -1,0 +1,4 @@
+id=bpf
+name=bpfbypass
+author=devcore94,fdur25
+description=bypasses bpf for oneui 8.5.
