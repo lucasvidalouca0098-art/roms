@@ -1,4 +1,4 @@
-name: Build MonsterROM
+name: Build ROM r8s
 
 on:
   workflow_dispatch:
